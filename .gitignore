@@ -1,0 +1,25 @@
+# Arduino
+*.elf
+*.hex
+*.bin
+build/
+
+# IDE
+.vscode/
+*.suo
+*.user
+
+# Proteus
+*.pdsbak
+*.workspace
+
+# C# Build
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+
+# OS
+.DS_Store
+Thumbs.db
