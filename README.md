@@ -54,3 +54,9 @@ Thành viên:
 |:---:|:----------------:|:---------:|:---------:|
 | 1   | Thái Gia Kỳ      | N23DCCI038| Admin     |
 | 2   | Nguyễn Huy Hiệu  | N23DCCI024| Developer |
+
+Tác giả
+
+- **GiantKy**  
+- 🌐 Website: https://GiantKy.github.io  
+- 💻 GitHub: https://github.com/GiantKy
